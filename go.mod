@@ -1,4 +1,4 @@
-module protos
+module github.com/Sanirium/sso-protos
 
 go 1.24.3
 
